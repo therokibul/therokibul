@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Dart, Flutter**
 
-- 📫 How to reach me **therokibul@gmail.com**
+- 📫 How to reach me **rokibulh@outlook.com**
 
 - 📄 Know about my experiences [https://github.com/therokibul/](https://github.com/therokibul/)
 
